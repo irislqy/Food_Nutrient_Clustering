@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning: Clustering Food Nutrient Pattern
+# Unsupervised ML: Clustering Food Nutrient Pattern
   - One fun fact for ice-tea lovers: in the top 98% percentile of food items ordered by sugar level, "ice-tea" takes up the majority of food description. 
 
 
