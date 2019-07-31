@@ -20,7 +20,7 @@ This project analyzed food data with labels and nutrients data to uncover insigh
  <p align="center">
   <img width="400" src="2.png">
 </p>       
-        b. 3D Clustering (After PCA)
+        b. 3D Clustering via Plotly (After PCA)
         
                         Green: Muscle Builder, Yellow: Junk Food, Purple: Best for Diet
 
